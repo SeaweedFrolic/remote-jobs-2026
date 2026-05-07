@@ -148,4 +148,19 @@ Follow these accounts for job tips and postings:
 | [apptrack.app](https://apptrack.app) | Job application tracker. |
 | [plaud.ai](https://plaud.ai) | AI-powered note-taking. |
 | [raindrop.io](https://raindrop.io) | Bookmark manager. |
-| [w
+| [wetransfer.com](https://wetransfer.com) | Simple file transfer service for sharing portfolios and resumes. |
+| [endel.io](https://endel.io) | AI-powered soundscapes to improve focus and reduce stress. |
+| [chatlyai.app](https://chatlyai.app) | AI chat assistant for interview practice and productivity. |
+| [d-id.com](https://d-id.com) | AI-generated talking avatars for presentations. |
+| [heygen.com](https://heygen.com) | Video creation platform with AI avatars. |
+| [makeugc.ai](https://makeugc.ai) | AI tool for generating user-generated content mockups. |
+| [synthesia.io](https://synthesia.io) | Create AI-powered video resumes and presentations. |
+| [principles.design](https://principles.design) | Design principles library for better portfolio building. |
+| [framer.com](https://framer.com) | Interactive design and prototyping tool. |
+| [foriio.com](https://foriio.com) | Online portfolio platform for creatives. |
+| [pop.site](https://pop.site) | Simple personal website builder for showcasing work. |
+| [zaap.ai](https://zaap.ai) | AI-powered personal branding and portfolio tool. |
+| [potofu.me](https://potofu.me) | Japanese portfolio and profile creation platform. |
+| [lit.link](https://lit.link) | Link-in-bio tool for creatives and professionals. |
+| [stillhiring.today](https://stillhiring.today) | Real-time updates on companies actively hiring. |
+
