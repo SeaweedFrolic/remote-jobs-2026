@@ -1,5 +1,6 @@
 # remote-jobs-2026
 Curated list of remote job boards and career resources
+![Alt text](img.png)
 
 # 🌍 2026 Curated List of Remote Job & Career Resources
 
