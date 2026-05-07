@@ -1,5 +1,7 @@
 # remote-jobs-2026
-Curated list of remote job boards and career resources
+Not gatekeeping — just sharing! 
+I pulled together a curated list of over 40 Remote Job & Career Resources from my endless doom‑scrolling. Productive, right? :wink:
+Figured it might be useful for you too:
 ![Alt text](img.png)
 
 # 🌍 2026 Curated List of Remote Job & Career Resources
