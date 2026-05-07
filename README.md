@@ -143,11 +143,11 @@ Follow these accounts for job tips and postings:
 |---------|-------------|
 | [parakeet-ai.com](https://parakeet-ai.com) | AI-powered interview practice. |
 | [cvdesigner.ai](https://cvdesigner.ai) | Smart CV and resume builder. |
-| [offergoose.com](https://offergoose.com) | Salary negotiation assistant. |
+| [offergoose.com](https://offergoose.com) | AI Mock Interview Assitant. |
 | [slidesgo.com](https://slidesgo.com) | Free presentation templates. |
 | [keepmind.ai](https://keepmind.ai) | AI memory and productivity tool. |
-| [moody.mjarosz.com](https://moody.mjarosz.com) | Mood tracking for interviews. |
-| [krisp.ai](https://krisp.ai) | Noise cancellation for calls. |
+| [moody.mjarosz.com](https://moody.mjarosz.com) | Teleprompter for your Mac. |
+| [krisp.ai](https://krisp.ai) | Noise cancellation for callsa and Accent Conversion. |
 | [apptrack.app](https://apptrack.app) | Job application tracker. |
 | [plaud.ai](https://plaud.ai) | AI-powered note-taking. |
 | [raindrop.io](https://raindrop.io) | Bookmark manager. |
