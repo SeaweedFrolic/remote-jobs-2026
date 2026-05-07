@@ -17,7 +17,7 @@ A comprehensive and organized list of websites, platforms, and tools to help you
 | [rareroles.com](https://www.rareroles.com) | Unique and niche remote job opportunities. |
 | [opendoorscareers.com/jobs](https://opendoorscareers.com/jobs) | Global career portal with remote listings. |
 | [virtualstaff.ph](https://virtualstaff.ph/en-ph/find-jobs) | Remote jobs tailored for Filipino professionals. |
-| [jobs.cloudstaff.com](https://jobs.cloudstaff.com/job-list) | Outsourcing and remote staffing opportunities. |
+| [jobs.cloudstaff.com](https://jobs.cloudstaff.com/) | Outsourcing and remote staffing opportunities. |
 | [connectos.co/careers](https://connectos.co/careers) | Remote careers in outsourcing and BPO. |
 | [jobs.workable.com](https://jobs.workable.com) | Workable’s curated job marketplace. |
 | [4dayweek.io](https://4dayweek.io) | Remote jobs with flexible 4-day workweeks. |
