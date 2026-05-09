@@ -79,6 +79,7 @@ A comprehensive and organized list of websites, platforms, and tools to help you
 | Website | Description |
 |---------|-------------|
 | [figma.com/careers](https://figma.com/careers) | Careers at Figma. |
+| [careers.adobe.com](https://careers.adobe.com/us/en/c/design-jobs) | Careers at Adobe. |
 | [lifeatcanva.com/en/jobs](https://lifeatcanva.com/en/jobs) | Creative roles at Canva. |
 | [snappr.com/careers](https://snappr.com/careers) | Photography and creative jobs. |
 | [sweetescape.com/en/join](https://sweetescape.com/en/join) | Travel photography careers. |
