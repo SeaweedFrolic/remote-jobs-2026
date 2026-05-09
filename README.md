@@ -125,7 +125,8 @@ Follow these accounts for job tips and postings:
 - Claude Certified Architect  
 - Google AI Essentials  
 - Github Foundations  
-- Figma Certification  
+- Figma Certification
+- Adobe Certified Professional 
 - Foreign Language Proficiency Test  
 
 ---
