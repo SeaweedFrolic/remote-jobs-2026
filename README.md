@@ -82,6 +82,7 @@ A comprehensive and organized list of websites, platforms, and tools to help you
 | [lifeatcanva.com/en/jobs](https://lifeatcanva.com/en/jobs) | Creative roles at Canva. |
 | [snappr.com/careers](https://snappr.com/careers) | Photography and creative jobs. |
 | [sweetescape.com/en/join](https://sweetescape.com/en/join) | Travel photography careers. |
+| [flytographer.com/join](https://www.flytographer.com/join) | Show up & shoot worldwide. |
 | [jobs.netflix.com](https://jobs.netflix.com) | Creative and media roles at Netflix. |
 | [careers.penguinrandomhouse.com](https://careers.penguinrandomhouse.com) | Publishing industry jobs. |
 
@@ -147,7 +148,7 @@ Follow these accounts for job tips and postings:
 | [slidesgo.com](https://slidesgo.com) | Free presentation templates. |
 | [keepmind.ai](https://keepmind.ai) | AI memory and productivity tool. |
 | [moody.mjarosz.com](https://moody.mjarosz.com) | Teleprompter for your Mac. |
-| [krisp.ai](https://krisp.ai) | Noise cancellation for callsa and Accent Conversion. |
+| [krisp.ai](https://krisp.ai) | Noise cancellation for calls and Accent Conversion. |
 | [apptrack.app](https://apptrack.app) | Job application tracker. |
 | [plaud.ai](https://plaud.ai) | AI-powered note-taking. |
 | [raindrop.io](https://raindrop.io) | Bookmark manager. |
