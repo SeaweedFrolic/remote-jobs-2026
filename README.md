@@ -169,6 +169,7 @@ Follow these accounts for job tips and postings:
 | [flora.ai](https://flora.ai) | Every creative tool, one unified process. |
 | [sitedrop.ai](https://sitedrop.ai) | Tool for creating and sharing websites instantly from files and documents. |
 | [principles.design](https://principles.design) | Design principles library for better portfolio building. |
+| [component.gallery](https://component.gallery/) | Up-to-date repository of UI components & design systems. |
 | [framer.com](https://framer.com) | Interactive design and prototyping tool. |
 | [sitedrop.ai](https://sitedrop.ai) | Tool for creating and sharing websites instantly. |
 | [foriio.com](https://foriio.com) | Online portfolio platform for creatives. |
