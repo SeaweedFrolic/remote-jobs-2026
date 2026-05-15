@@ -54,6 +54,7 @@ A comprehensive and organized list of websites, platforms, and tools to help you
 | [generalist.world/jobs](https://generalist.world/jobs) | Jobs for versatile generalists. |
 | [levels.fyi](https://levels.fyi) | Career transparency and job listings. |
 | [venturecapitalcareers.com](https://venturecapitalcareers.com) | VC and startup-focused jobs. |
+| [cara.app/jobs](https://cara.app/jobs) | Creative-focused job board helping designers, artists, and makers. |
 
 ---
 
@@ -145,6 +146,7 @@ Follow these accounts for job tips and postings:
 | Website | Description |
 |---------|-------------|
 | [parakeet-ai.com](https://parakeet-ai.com) | AI-powered interview practice. |
+| [resume.io](https://resume.io) | Craft professional CVs quickly. |
 | [cvdesigner.ai](https://cvdesigner.ai) | Smart CV and resume builder. |
 | [offergoose.com](https://offergoose.com) | AI Mock Interview Assitant. |
 | [slidesgo.com](https://slidesgo.com) | Free presentation templates. |
@@ -161,8 +163,14 @@ Follow these accounts for job tips and postings:
 | [heygen.com](https://heygen.com) | Video creation platform with AI avatars. |
 | [makeugc.ai](https://makeugc.ai) | AI tool for generating user-generated content mockups. |
 | [synthesia.io](https://synthesia.io) | Create AI-powered video resumes and presentations. |
+| [runable.com](https://runable.com) | Work with AI |
+| [cursor.com](https://cursor.com) | AI-powered coding workspace designed to streamline software development and collaboration. |
+| [emergent.sh](https://emergent.sh) | Build full-stack web & mobile apps in minutes. |
+| [flora.ai](https://flora.ai) | Every creative tool, one unified process. |
+| [sitedrop.ai](https://sitedrop.ai) | Tool for creating and sharing websites instantly from files and documents. |
 | [principles.design](https://principles.design) | Design principles library for better portfolio building. |
 | [framer.com](https://framer.com) | Interactive design and prototyping tool. |
+| [sitedrop.ai](https://sitedrop.ai) | Tool for creating and sharing websites instantly. |
 | [foriio.com](https://foriio.com) | Online portfolio platform for creatives. |
 | [pop.site](https://pop.site) | Simple personal website builder for showcasing work. |
 | [zaap.ai](https://zaap.ai) | AI-powered personal branding and portfolio tool. |
