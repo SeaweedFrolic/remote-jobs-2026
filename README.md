@@ -54,7 +54,7 @@ A comprehensive and organized list of websites, platforms, and tools to help you
 | [generalist.world/jobs](https://generalist.world/jobs) | Jobs for versatile generalists. |
 | [levels.fyi](https://levels.fyi) | Career transparency and job listings. |
 | [venturecapitalcareers.com](https://venturecapitalcareers.com) | VC and startup-focused jobs. |
-| [cara.app/jobs](https://cara.app/jobs) | Creative-focused job board helping designers, artists, and makers. |
+| [cara.app/jobs](https://cara.app/jobs) | Creative-focused job board for designers, artists, and makers. |
 
 ---
 
@@ -164,7 +164,7 @@ Follow these accounts for job tips and postings:
 | [makeugc.ai](https://makeugc.ai) | AI tool for generating user-generated content mockups. |
 | [synthesia.io](https://synthesia.io) | Create AI-powered video resumes and presentations. |
 | [runable.com](https://runable.com) | Work with AI |
-| [cursor.com](https://cursor.com) | AI-powered coding workspace designed to streamline software development and collaboration. |
+| [cursor.com](https://cursor.com) | Streamline software development and collaboration. |
 | [emergent.sh](https://emergent.sh) | Build full-stack web & mobile apps in minutes. |
 | [flora.ai](https://flora.ai) | Every creative tool, one unified process. |
 | [sitedrop.ai](https://sitedrop.ai) | Tool for creating and sharing websites instantly from files and documents. |
