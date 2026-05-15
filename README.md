@@ -84,7 +84,7 @@ A comprehensive and organized list of websites, platforms, and tools to help you
 | [lifeatcanva.com/en/jobs](https://lifeatcanva.com/en/jobs) | Creative roles at Canva. |
 | [lifeatspotify.com/jobs](https://www.lifeatspotify.com/find-your-team/job-categories/design) | Careers at Spotify. |
 | [ogilvy.com/careers](https://www.ogilvy.com/careers) | Creative roles at Ogilvy. |
-| [cgworld.jp/jobs/](https://cgworld.jp/jobs) | Actively hiring Japanese Animation Studios. |
+| [cgworld.jp/jobs](https://cgworld.jp/jobs) | Actively hiring Japanese Animation Studios. |
 | [dentsu.com/us/en/careers](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/?source=Dentsu) | Creative careers at Dentsu. |
 | [anthropic.com/careers/jobs](https://www.anthropic.com/careers/jobs) | Engineering & Design roles at Anthropic. |
 | [snappr.com/careers](https://snappr.com/careers) | Photography and creative jobs. |
