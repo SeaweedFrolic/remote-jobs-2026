@@ -82,6 +82,7 @@ A comprehensive and organized list of websites, platforms, and tools to help you
 | [figma.com/careers](https://figma.com/careers) | Careers at Figma. |
 | [careers.adobe.com](https://careers.adobe.com/us/en/c/design-jobs) | Careers at Adobe. |
 | [lifeatcanva.com/en/jobs](https://lifeatcanva.com/en/jobs) | Creative roles at Canva. |
+| [https://www.lifeatspotify.com/jobs](https://www.lifeatspotify.com/find-your-team/job-categories/design) | Careers at Spotify. |
 | [ogilvy.com/careers](https://www.ogilvy.com/careers) | Creative roles at Ogilvy. |
 | [cgworld.jp/jobs/](https://cgworld.jp/jobs) | Actively hiring Japanese Animation Studios. |
 | [dentsu.com/us/en/careers](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/?source=Dentsu) | Creative careers at Dentsu. |
