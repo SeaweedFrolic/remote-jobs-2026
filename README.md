@@ -152,11 +152,11 @@ Follow these accounts for job tips and postings:
 | [slidesgo.com](https://slidesgo.com) | Free presentation templates. |
 | [keepmind.ai](https://keepmind.ai) | AI memory and productivity tool. |
 | [moody.mjarosz.com](https://moody.mjarosz.com) | Teleprompter for your Mac. |
-| [krisp.ai](https://krisp.ai) | Noise cancellation for calls and Accent Conversion. |
+| [krisp.ai](https://krisp.ai) | Noise cancellation for calls and accent conversion. |
 | [apptrack.app](https://apptrack.app) | Job application tracker. |
 | [plaud.ai](https://plaud.ai) | AI-powered note-taking. |
 | [raindrop.io](https://raindrop.io) | Bookmark manager. |
-| [wetransfer.com](https://wetransfer.com) | Simple file transfer service for sharing portfolios and resumes. |
+| [wetransfer.com](https://wetransfer.com) | Simple file transfer service for sharing mood boards. |
 | [endel.io](https://endel.io) | AI-powered soundscapes to improve focus and reduce stress. |
 | [chatlyai.app](https://chatlyai.app) | AI chat assistant for interview practice and productivity. |
 | [d-id.com](https://d-id.com) | AI-generated talking avatars for presentations. |
