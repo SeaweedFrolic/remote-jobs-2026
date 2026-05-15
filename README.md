@@ -84,7 +84,7 @@ A comprehensive and organized list of websites, platforms, and tools to help you
 | [lifeatcanva.com/en/jobs](https://lifeatcanva.com/en/jobs) | Creative roles at Canva. |
 | [ogilvy.com/careers](https://www.ogilvy.com/careers) | Creative roles at Ogilvy. |
 | [dentsu.com/us/en/careers](https://dentsuaegis.wd3.myworkdayjobs.com/en-US/DAN_GLOBAL/?source=Dentsu) | Creative careers at Dentsu. |
-| [anthropic.com/careers/jobs](https://www.anthropic.com/careers/jobs) | Engineering & Design roles at Anthropic |
+| [anthropic.com/careers/jobs](https://www.anthropic.com/careers/jobs) | Engineering & Design roles at Anthropic. |
 | [snappr.com/careers](https://snappr.com/careers) | Photography and creative jobs. |
 | [sweetescape.com/en/join](https://sweetescape.com/en/join) | Travel photography careers. |
 | [flytographer.com/join](https://www.flytographer.com/join) | Show up & shoot worldwide. |
