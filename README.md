@@ -43,6 +43,7 @@ A comprehensive and organized list of websites, platforms, and tools to help you
 | [jobs.girlboss.com](https://jobs.girlboss.com) | Empowering women-focused career portal. |
 | [careervault.io](https://careervault.io) | Remote job aggregator with smart filters. |
 | [justremote.co](https://justremote.co) | Global remote job search platform. |
+| [jaabz.com](https://jaabz.com/) | Tech jobs with visa sponsorship, relocation, and remote. |
 | [remoteleaf.com](https://remoteleaf.com) | Curated remote jobs delivered to your inbox. |
 | [remote.co](https://remote.co) | Remote work resources and job listings. |
 | [dailyremote.com](https://dailyremote.com) | Daily updated remote job board. |
